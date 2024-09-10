@@ -1,1 +1,5 @@
+hi<<<<<<< HEAD
 modified c2
+=======
+c2 is here
+>>>>>>> first
